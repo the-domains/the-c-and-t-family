@@ -1,0 +1,28 @@
+name: 'The C & T Family'
+favicon: null
+layout_spectrum: 0.010888478951528668
+typography_spectrum: 0.04956516297534108
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6229129182174802
+  lightness: 0.43995096627622843
+  saturation: 0.2229943829588592
+  rhythmicContrast: 0.854446655139327
+purpose: []
